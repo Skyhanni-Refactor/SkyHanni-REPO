@@ -1,5 +1,6 @@
 {
   "disabledHandlers": [
+    "HypixelLocationEvent"
   ],
   "disabledInvokers": [
   ]
