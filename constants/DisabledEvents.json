@@ -1,8 +1,7 @@
 {
   "disabledHandlers": [
-
   ],
   "disabledInvokers": [
-
+    "at.hannibal2.skyhanni.api.HypixelAPI.onLocationChange(at.hannibal2.skyhanni.events.hypixel.HypixelLocationEvent)"
   ]
 }
