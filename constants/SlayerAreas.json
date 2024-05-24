@@ -1,0 +1,19 @@
+{
+  "Graveyard": "REVENANT",
+  "Coal Mine": "REVENANT",
+  "Spider Mound": "TARANTULA",
+  "Arachne's Burrow": "TARANTULA",
+  "Arachne's Sanctuary": "TARANTULA",
+  "Burning Desert": "TARANTULA",
+  "Ruins": "SVEN",
+  "Howling Cave": "SVEN",
+  "The End": "VOID",
+  "Dragon's Nest": "VOID",
+  "Void Sepulture": "VOID",
+  "Zealot Bruiser Hideout": "VOID",
+  "Stronghold": "INFERNO",
+  "The Wasteland": "INFERNO",
+  "Smoldering Tomb": "INFERNO",
+  "Stillgore Château": "VAMPIRE",
+  "Oubliette": "VAMPIRE"
+}
